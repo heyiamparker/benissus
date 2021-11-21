@@ -1,0 +1,38 @@
+body {
+    background-color: #1c1c1c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h1 {
+    color: white;
+    font-size: 48px;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-size: 28px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 15px;
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: white;
+}
+
+a {
+    color: white;
+    opacity: 0.8;
+}
+
+li {
+    color: white;
+}
