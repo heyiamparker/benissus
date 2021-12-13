@@ -1,2 +1,11 @@
-a website, about my friend, ben, who is very sus.
-please do not take this website seriously, if you're looking for real work from me, check out heyiamparker.xyz.
+# Here's a website about Ben
+
+
+## Info
+
+
+This is a Twitter joke. Please don't take this as real work from me.
+
+
+If you are looking for real work from me, check out 
+[this repo](https://github.com/ParkerExists/parkerexists.github.io)
